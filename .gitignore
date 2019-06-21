@@ -1,0 +1,8 @@
+#忽略数据库配置文件
+application/database.php
+#忽略model类
+application/*/model
+#忽略缓存文件
+runtime
+#忽略图片
+public/static
